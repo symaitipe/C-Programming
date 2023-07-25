@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1687698365 source:d:\1 nsbm\c directory\practical4_q1\main.c
+	<stdio.h>
+	<stdlib.h>
+
